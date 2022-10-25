@@ -34,7 +34,6 @@ take down mods that don't follow this rule.
 - [Alex Director](https://gamebanana.com/members/1701629) - Icon Fixer
 - [Drippy](https://github.com/TrafficKid) - GitHub Wikipedia
 - [GwebDev](https://github.com/GrowtopiaFli) - Edited WebM code
-- [Axy](https://github.com/timeless13GH) - Poggers help
 ## Build instructions
 
 THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
